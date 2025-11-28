@@ -1,0 +1,7 @@
+{
+  "description": "An AI-powered ride-sharing application.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "name": "Copy of App"
+}
